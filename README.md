@@ -1,4 +1,4 @@
-# FastAPI C.R.U.D.
+# FastAPI + AWS(RDS) C.R.U.D.
 
 ## Welcome to my personal project using Python
 
